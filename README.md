@@ -96,7 +96,7 @@ SalarioMedio = AVERAGE(DatasetRH[Salario_Mensal])
 
 📷 **Exemplo do Dashboard:**  
 
-![Painel Interativo de Gestão de Talentos](image/gestao_talentos.png)  
+![Painel Interativo de Gestão de Talentos](Image/gestao_talentos.png)  
 
 ## 🚀 Funcionalidades Implementadas
 
